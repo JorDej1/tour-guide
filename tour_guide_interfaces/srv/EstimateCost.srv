@@ -1,0 +1,4 @@
+float64 distance_m
+float64 duration_s
+---
+float64 battery_pct

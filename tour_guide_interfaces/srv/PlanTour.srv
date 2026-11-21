@@ -1,0 +1,11 @@
+float64 start_x
+float64 start_y
+string budget_type      # "none", "battery", or "time"
+float64 battery_pct
+float64 reserve_pct
+float64 time_budget_s
+---
+bool success
+Stop[] ordered_stops
+string[] skipped
+float64 predicted_cost

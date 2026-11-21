@@ -1,4 +1,4 @@
-# Battery-Concious Robot Tour Guide
+# Battery-Conscious Robot Tour Guide
 
 Intro to Intelligent Robotics, Project 3: Jordan DeJarnett, Jesse Jennings, Kevin Li, Brad Darby
 
